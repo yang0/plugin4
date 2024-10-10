@@ -1,6 +1,6 @@
 from datetime import datetime
 
-VERSION = "1.0.0"
+VERSION = "2.0.0"
 GIT_URL = "https://github.com/yang0/plugin4"
 NAME = "示例任务4"
 DESCRIPTION = "这是一个示例任务4，用于演示插件结构"
